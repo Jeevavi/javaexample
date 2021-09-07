@@ -12,6 +12,6 @@ public class JavaExample{
        System.out.println(num2+"is the Largest Number");
     
    else
-       System.out.println(num3+"is the Largest Number");
+       System.out.println(num3+"is the jeeva Number");
   }
  }
